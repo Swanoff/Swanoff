@@ -1,16 +1,14 @@
-### Hi there 👋
+# > whoami
 
-<!--
-**Swanoff/Swanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Product Builder
 
-Here are some ideas to get you started:
+🔧 3D Rendering • Full Stack Polyglot • AI • AR VR • Blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏅 International Hackathon Winner
+
+📄 Australian Patent Holder
+
+📍 Dubai
+
+[![Linkedin: Surya](https://img.shields.io/badge/-Surya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swanoff/)](https://www.linkedin.com/in/swanoff/)
+[![GitHub Surya](https://img.shields.io/github/followers/Swanoff?label=follow&style=social)](https://github.com/Swanoff)
